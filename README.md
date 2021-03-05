@@ -1,4 +1,4 @@
-## Customer Car Purched Group Classification and Prediction
+# Customer Car Purched Group Classification and Prediction
 
 <hr>
 
@@ -6,10 +6,16 @@
 
 <hr>
 
-### Used Model
+### Used Machine Learning Model
+
+- Support Vector Machine(SVM).
 
 <hr>
-- Support Vector Machine. 
+
+### Dataset Description :
+
+![Dataset](https://drive.google.com/uc?export=view&id=<18Jyo_n_Hpn7WqF1yG8a717mEZkOAoeTR>)
+
 
 
 
