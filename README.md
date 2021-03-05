@@ -2,7 +2,7 @@
 
 <hr>
 
-# Classify Car Purched Group using Support Vector Machine.
+### Classify Car Purched Group using Support Vector Machine.
 
 <hr>
 
