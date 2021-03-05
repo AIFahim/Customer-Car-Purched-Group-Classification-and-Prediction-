@@ -2,13 +2,16 @@
 
 <hr>
 
-### Classify Car Purched Group using Support Vector Machine.
+### Classify and Prdicts various of Car Purched Group using Support Vector Machine.
 
 <hr>
 
-# Used Model
+### Used Model
 
-- SVM
+<hr>
+- Support Vector Machine. 
+
+
 
 
 
