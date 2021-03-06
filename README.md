@@ -14,7 +14,7 @@
 
 ### Dataset Description :
 
-<img src="https://drive.google.com/uc?export=view&id=18Jyo_n_Hpn7WqF1yG8a717mEZkOAoeTR" width="530" height="250"/>
+<img src="https://drive.google.com/uc?export=view&id=18Jyo_n_Hpn7WqF1yG8a717mEZkOAoeTR" width="730" height="250"/>
 
 ![Dataset](https://drive.google.com/uc?export=view&id=18Jyo_n_Hpn7WqF1yG8a717mEZkOAoeTR)
 
