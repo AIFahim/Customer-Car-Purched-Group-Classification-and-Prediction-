@@ -1,4 +1,19 @@
 # Customer Car Purched Group Classification and Prediction
+![Author](https://img.shields.io/badge/author-AIFahim-orange)
+[![MIT](https://img.shields.io/badge/license-MIT-5eba00.svg)](https://github.com/AIFahim/Customer-Car-Purched-Group-Classification-and-Prediction-/blob/main/LICENSE)
+
+
+<hr>
+
+# Author: Md. Asif Iqbal Fahim
+
+Department of Computer Science & Engineering, </br>
+Green University of Bangladesh (GUB) </br>
+
+Linkedin: https://www.linkedin.com/in/AIFahim/ </br>
+Email: asif.iqbal.fahim.bd@gmail.com <br>
+
+
 
 <hr>
 
@@ -16,7 +31,7 @@
 
 <img src="https://drive.google.com/uc?export=view&id=18Jyo_n_Hpn7WqF1yG8a717mEZkOAoeTR" width="430" height="250"/>
 
-### visualization :
+### Visualization :
 
 Train Data Visualize (Before Training)            |  Test Data Visualize (After Training)        
 :-------------------------:|:------------------------:
